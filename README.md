@@ -30,7 +30,7 @@ You can find the API documentation there :
 - Your next mission is to display the full list of users.
 - Start by creating two new components `<UsersList />` and `<User />`.
 - In the `<UsersList />` component, you will need to get the list from the API, and map it in your jsx. For each user you get from the API, display a `<User />` component.
-- Your `<User />` component will need some props to display the user informations. There are plenty of informations you can use (name, gender, image, ..._). Display them in the format of your choice !
+- Your `<User />` component will need some props to display the user informations. There are plenty of informations you can use (_name, gender, image, ..._). Display them in the format of your choice !
 
 
 ### Filtering
