@@ -1,16 +1,14 @@
 # REACT Random User - Exercise
-## Disclaimer
-
-**HAVE FUN** :smiley:
 
 
-## :zero: Setup
+
+## Setup
 
 You are starting the exercise from scratch ! So you need to install everything.
 You can use : [create-react-app](https://create-react-app.dev/)
 
 
-## :one: React
+## React
 
 **In this step, you will create a web-app using React, that displays random users from one of our API !**
 
