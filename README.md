@@ -20,7 +20,8 @@ You can find the API documentation there :
 
 ### Starting point
 
-- You can wipe all the boilerplate jsx code in `App.jsx`
+- Clean React App, delete all files useless like : App.css / App.test.js / reportWebVitals.js / index.css / logo.svg / setupTests.js and don't forgot to delete imports from this file in index.js and App.js 
+- You can change App.js by App.jsx and use ES6 synthaxe : (function App () {} become const App = () => {})
 - Then, create a `<Header />` component that displays a cool welcome message.
 - Pass a `name` prop to this component, to display your website name (_react game_ if you don't have any idea)
 
