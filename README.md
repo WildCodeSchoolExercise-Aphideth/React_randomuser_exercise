@@ -10,9 +10,9 @@ You can use : [create-react-app](https://create-react-app.dev/)
 
 ## React
 
-**In this step, you will create a web-app using React, that displays random users from one of our API !**
+**In this step, you will create a web-app using React, that displays random users from an API !**
 
-You can find the API documentation there :
+You can find the API result there :
 
 - https://randomuser.me/api/?results=30
 
